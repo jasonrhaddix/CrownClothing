@@ -1,8 +1,8 @@
 import React from 'react';
 import logo from './logo.svg';
 
-import Homepage from './views/Homepage.component'
-import './views/homepage.styles.scss'
+import Homepage from './views/Homepage/Homepage.component'
+import './views/Homepage/homepage.styles.scss'
 
 import './App.css';
 
